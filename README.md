@@ -1,8 +1,6 @@
 Here is a deep summary of the first two parts of the [Inside look at modern web browser](https://developer.chrome.com/blog) series, structured as detailed study notes:
 
 ---
-<img width="1024" height="1024" alt="chrome logo with it's process" src="https://github.com/user-attachments/assets/6384e613-5448-4b43-b544-e8e5451cafb2" />
-
 
 
 # Part 1: Multi-Process Architecture
